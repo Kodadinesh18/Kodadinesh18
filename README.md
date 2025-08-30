@@ -1,7 +1,7 @@
 
 
 ## 🚀 About Me
-- 🎓 Final-year **B.Tech in Computer Science & Systems Engineering** (2022–2025)  
+- 🎓  **B.Tech in Computer Science & Systems Engineering** (2022–2025)  
 - 💻 Focused on **Python Development, Web Technologies, and AI/ML**  
 - 🔎 Building **scalable applications**, exploring **automation & data science**  
 
@@ -24,8 +24,8 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" height="30"/>
 </p>  
 
-- **Automation & Scripting:** Selenium, BeautifulSoup, OS & Sys utilities  
-- **Testing:** PyTest, UnitTest  
+- Automation & Scripting: Selenium, BeautifulSoup, OS & Sys utilities  
+- Testing: PyTest, UnitTest  
 
 ### 🌐 Web Development  
 <p align="center">
@@ -48,12 +48,12 @@
 ## 📂 Projects  
 
 ### 📊 Personal Finance Tracker  
-🖥️ **Tech:** Python, Pandas, Matplotlib, CSV, OOP  
+🖥️Tech: Python, Pandas, Matplotlib, CSV, OOP  
 - Developed a console-based finance tracker with CSV storage  
 - Designed interactive visualizations with date-based filtering  
 
 ### 🎯 Student Performance Prediction System  
-🖥️ **Tech:** Gemini API, Firebase, Linear Regression, HTML, CSS, JS  
+🖥️ Tech: Gemini API, Firebase, Linear Regression, HTML, CSS, JS  
 - Built a web app to predict student performance using regression  
 - Integrated AI-powered study suggestions + real-time sync  
 
@@ -67,9 +67,9 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 **Elite Distinction** — *Privacy & Security in Online Social Media (NPTEL, 2024)*  
-- 🏅 **All India Rank 1323** — NCAT 2025  
-- ⭐ **5 Stars in Python** — HackerRank  
+- 🥇 Elite Distinction — *Privacy & Security in Online Social Media (NPTEL, 2024)*  
+- 🏅 All India Rank 1323 — NCAT 2025  
+- ⭐ 5 Stars in Python — HackerRank  
 
 ---
 
