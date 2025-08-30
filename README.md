@@ -1,9 +1,4 @@
-<!-- Typing effect banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Dinesh+Koda!;Python+Developer+%7C+Web+Enthusiast;AI%2FML+Explorer;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
-</h1>
 
----
 
 ## 🚀 About Me
 - 🎓 Final-year **B.Tech in Computer Science & Systems Engineering** (2022–2025)  
