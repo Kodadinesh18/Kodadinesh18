@@ -17,10 +17,9 @@
 
 ### 📚 Python Ecosystem  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" height="60"/>
+  <img src="https://skillicons.dev/icons?i=python" height="60"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" height="30"/>
 </p>  
 
@@ -29,18 +28,18 @@
 
 ### 🌐 Web Development  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,html,css,js" height="60"/>  
+  <img src="https://skillicons.dev/icons?i=django,flask,html,css,js" height="60"/>  
 </p>  
 - **APIs:** RESTful APIs, Firebase Realtime Database  
 
 ### 🗄️ Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase" height="60"/>  
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" height="60"/>  
 </p>  
 
 ### ⚙️ Tools & DevOps  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" height="60"/>  
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="60"/>  
 </p>  
 
 ---
